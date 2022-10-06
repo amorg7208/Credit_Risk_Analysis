@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#LoanStats csv (too large to upload to github)
+/Users/amanda/Desktop/UCBComplete/Credit_Risk_Analysis/Module-17-Challenge-Resources/LoanStats_2019Q1.csv
 # C extensions
 *.so
 
